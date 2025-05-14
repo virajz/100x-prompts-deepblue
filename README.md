@@ -1,4 +1,4 @@
-# 🧠 notacp – AI Prompt Engineering Toolkit
+# 🧠 AI Prompt Engineering Toolkit
 
 A curated collection of AI-ready prompts and generators designed to supercharge your productivity, creativity, and product development workflows.
 
