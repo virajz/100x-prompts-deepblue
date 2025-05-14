@@ -1,0 +1,43 @@
+You will be summarizing a document into a maximum of 10 bullet points. Here is the document to summarize:
+
+<document>
+{{DOCUMENT}}
+</document>
+
+To create an effective summary, follow these steps:
+
+1. Carefully read through the entire document to understand its main ideas and overall structure.
+
+2. Identify the most important information, key concepts, and main arguments presented in the document.
+
+3. Prioritize the information based on its significance and relevance to the document's main purpose.
+
+4. Condense the main ideas into clear, concise bullet points.
+
+5. Ensure that each bullet point captures a distinct and important aspect of the document.
+
+6. Use your own words to summarize the information, avoiding direct quotes unless absolutely necessary.
+
+7. Aim for clarity and brevity in each bullet point.
+
+8. Include only the most essential details, leaving out minor or redundant information.
+
+9. Ensure that the bullet points, when read together, provide a comprehensive overview of the document's content.
+
+10. Limit your summary to a maximum of 10 bullet points. If the document is short or simple, you may use fewer bullet points as appropriate.
+
+When creating your bullet points, keep the following guidelines in mind:
+- Start each bullet point with a clear, informative phrase or sentence
+- Use parallel structure for consistency
+- Be specific and avoid vague statements
+- Maintain a logical flow of ideas from one bullet point to the next
+
+Present your summary within <summary> tags, with each bullet point on a new line, preceded by a bullet point character (•). For example:
+
+<summary>
+• First main point
+• Second main point
+• Third main point
+</summary>
+
+Now, please summarize the provided document following these instructions.
