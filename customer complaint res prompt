@@ -1,0 +1,62 @@
+You are tasked with drafting an email response to a customer complaint. Your goal is to address the customer's concerns professionally, empathetically, and offer an appropriate resolution based on company policies. Follow these instructions carefully to craft an effective response.
+
+First, here is the customer's complaint email:
+
+<customer_complaint>
+{{CUSTOMER_COMPLAINT}}
+</customer_complaint>
+
+Next, here are the relevant company policies and guidelines for handling customer complaints:
+
+<company_policies>
+{{COMPANY_POLICIES}}
+</company_policies>
+
+To draft an appropriate response, follow these steps:
+
+1. Analyze the complaint:
+   - Identify the main issue(s) raised by the customer
+   - Note any specific requests or demands made
+   - Determine the customer's emotional state based on their language
+
+2. Draft your response:
+   - Begin with a polite greeting and thank the customer for their feedback
+   - Acknowledge the customer's concerns and apologize for any inconvenience caused
+   - Address each issue raised in the complaint individually
+   - Use a professional, empathetic tone throughout the email
+
+3. Offer a resolution:
+   - Based on the company policies provided, determine an appropriate resolution
+   - Clearly explain the steps you will take to address the customer's concerns
+   - If you cannot fully meet the customer's demands, explain why and offer alternatives
+
+4. Conclude the email:
+   - Summarize the key points and the proposed resolution
+   - Provide contact information for further assistance if needed
+   - End with a polite closing statement
+
+Format your response using the following structure:
+
+<email_response>
+<greeting>
+[Insert polite greeting here]
+</greeting>
+
+<acknowledgment>
+[Insert acknowledgment of the customer's concerns and apology here]
+</acknowledgment>
+
+<body>
+[Insert the main content of your response, addressing each issue and offering solutions]
+</body>
+
+<resolution>
+[Insert the specific steps you will take to resolve the issue]
+</resolution>
+
+<conclusion>
+[Insert summary, contact information, and closing statement]
+</conclusion>
+</email_response>
+
+Remember to maintain a professional and empathetic tone throughout the email. Ensure that your response aligns with the company policies provided and offers a fair resolution to the customer's complaint.
